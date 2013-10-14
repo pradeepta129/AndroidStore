@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Strip Me"</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+    <string-array name="PreList">
+        <item>@drawable/pre0</item>
+        <item>@drawable/pre1</item>
+        <item>@drawable/pre2</item>
+        <item>@drawable/pre3</item>
+        <item>@drawable/pre4</item>
+        <item>@drawable/pre5</item>
+        <item>@drawable/pre6</item>
+    </string-array>
+    <string-array name="CoverList">
+        <item>@drawable/cover0</item>
+        <item>@drawable/cover1</item>
+        <item>@drawable/cover2</item>
+        <item>@drawable/cover3</item>
+        <item>@drawable/cover4</item>
+        <item>@drawable/cover5</item>
+        <item>@drawable/cover6</item>
+    </string-array>
+
+    <string name="title_activity_game_activity1">GameActivity1</string>
+    <string name="action_settings">Settings</string>
+    <string name="todo">TODO</string>
+
+</resources>
