@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal"
+    android:showDividers="none" >
+
+  <ImageView
+      android:id="@+id/subicon"
+      android:layout_width="wrap_content"  
+  	  android:layout_height="wrap_content"
+      android:maxHeight="64sp"
+      android:maxWidth="64sp"
+      android:adjustViewBounds="true"  
+	  android:scaleType="fitXY"
+      android:src="@drawable/ic_launcher" />
+
+  <TextView
+      android:id="@+id/subtextName"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:textSize="16sp" />
+
+
+
+</LinearLayout>
